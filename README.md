@@ -1,1 +1,1 @@
-# pragmatic-studio-ruby
+# Repo for the Pragmatic Studio Ruby Course
